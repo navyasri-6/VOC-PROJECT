@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Buy Groceries",
+        "description": "Milk,Bread,Egg,Banana",
+        "category": "Personal",
+        "completed": true
+    },
+    {
+        "title": "Pay Electricity Bill",
+        "description": "Must be Paid before due date.",
+        "category": "Urgent",
+        "completed": true
+    },
+    {
+        "title": "Complete Assignment",
+        "description": "Finish python To-Do personal list project.",
+        "category": "Work",
+        "completed": true
+    }
+]
